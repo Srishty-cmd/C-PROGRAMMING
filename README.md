@@ -8,7 +8,7 @@ This repository contains multiple beginner-level C programs created for learning
 ### 1. 🏧 atm.c  
 A simple ATM simulation with options like deposit, withdraw, and balance check using conditional logic.
 
-### 2. ☕ cafec.c  
+### 2. ☕ cafe.c  
 A basic cafe ordering system with menu-driven input and item selection.
 
 ### 3. ➗ calculator.c  
@@ -40,4 +40,5 @@ Calculator based on selected operators using switch-case.
 - [Github profile] (https://github.com/Srishty-cmd) 
 
 ##📌 Note
+
 These programs are written as part of my C programming learning journey
