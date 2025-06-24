@@ -35,10 +35,10 @@ Calculator based on selected operators using switch-case.
    gcc filename.c -o output
    ./output
 
-##🙋‍♀ Author
+🙋‍♀ Author
 - Srishty
 - [Github profile] (https://github.com/Srishty-cmd) 
 
-##📌 Note
+📌 Note
 
 These programs are written as part of my C programming learning journey
